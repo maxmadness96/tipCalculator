@@ -1,10 +1,13 @@
-
-  #results {
+#results {
          display:none;
        }
 
 html {
   background-color: #4dc3ff
+}
+
+div.form-group {
+  color: #d699ff
 }
 
 
