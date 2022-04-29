@@ -1,13 +1,20 @@
 #results {
-         display:none;
-       }
-
-html {
-  background-color: #4dc3ff
+         display: none;
 }
 
-div.form-group {
-  color: #d699ff
+body {
+         background-image: url("tips.jpg");
+}
+
+.card {
+         background-color: #00e6e6;
+         border-radius: 80px; 
+         align-items: center; 
+}
+
+h1 {
+         font-family: Brush Script MT;
+         color: white;
 }
 
 
